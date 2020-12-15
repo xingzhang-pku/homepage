@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: xingZha97465145
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Xing Zhang
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/xingZha97465145
+    - https://github.com/xingzhang-pku
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Xing Zhang
+  url: https://github.com/xingzhang-pku/
+  email: zhangstar@stu.pku.edu.cn
