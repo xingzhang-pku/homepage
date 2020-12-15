@@ -35,8 +35,8 @@ logo: logo.png
 social:
   name: Xing Zhang
   links:
-    - https://twitter.com/xingZha97465145
-    - https://github.com/xingzhang-pku
+    - https://twitter.com/xingZha97465145/
+    - https://github.com/xingzhang-pku/
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Xing Zhang
-  url: https://github.com/xingzhang-pku/
+  url: https://xingzhang-pku.github.io/
   email: zhangstar@stu.pku.edu.cn
